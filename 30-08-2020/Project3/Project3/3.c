@@ -4,9 +4,9 @@ int main()
 {
 	float v,s,t;
 	
-	printf("Enter your distance : ");
+	printf("Enter your distance(metre) : ");
 	scanf("%f", &s);
-	printf("Enter your time : ");
+	printf("Enter your time(second) : ");
 	scanf("%f", &t);
 	v = s / t;
 	printf("V is equal %f", v);
