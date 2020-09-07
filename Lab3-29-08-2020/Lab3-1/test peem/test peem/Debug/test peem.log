@@ -1,0 +1,7 @@
+﻿  Test-peem.c
+C:\Users\Napat Jira\OneDrive\เดสก์ท็อป\Work &Learning\Work\Lab3-29-08-2020\Lab3-1\test peem\test peem\Test-peem.c(48,20): warning C4477: 'printf' : format string '%g' requires an argument of type 'double', but variadic argument 1 has type 'double *'
+C:\Users\Napat Jira\OneDrive\เดสก์ท็อป\Work &Learning\Work\Lab3-29-08-2020\Lab3-1\test peem\test peem\Test-peem.c(48,20): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Napat Jira\OneDrive\เดสก์ท็อป\Work &Learning\Work\Lab3-29-08-2020\Lab3-1\test peem\test peem\Test-peem.c(48,20): message : placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+C:\Users\Napat Jira\OneDrive\เดสก์ท็อป\Work &Learning\Work\Lab3-29-08-2020\Lab3-1\test peem\test peem\Test-peem.c(48,20): message : the missing variadic argument 3 is required by format string '%+g'
+C:\Users\Napat Jira\OneDrive\เดสก์ท็อป\Work &Learning\Work\Lab3-29-08-2020\Lab3-1\test peem\test peem\Test-peem.c(6,21): warning C4101: 'd': unreferenced local variable
+  test peem.vcxproj -> C:\Users\Napat Jira\OneDrive\เดสก์ท็อป\Work &Learning\Work\Lab3-29-08-2020\Lab3-1\test peem\Debug\test peem.exe
